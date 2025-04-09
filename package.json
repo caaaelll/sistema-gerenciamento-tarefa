@@ -1,0 +1,24 @@
+{
+  "name": "sistema-gerenciamento-tarefa",
+  "version": "1.0.0",
+  "description": "Sistema de Gerenciamento de Tarefas: Trabalho 01 de JavaScript(AmontadaValley)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caaaelll/sistema-gerenciamento-tarefa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caaaelll/sistema-gerenciamento-tarefa/issues"
+  },
+  "homepage": "https://github.com/caaaelll/sistema-gerenciamento-tarefa#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
